@@ -384,7 +384,7 @@ slack-sdk==3.11.2
     # via -r /awx_devel/requirements/requirements.in
 smmap==3.0.1
     # via gitdb
-social-auth-app-django==5.0.0
+social-auth-app-django==5.4.1
     # via -r /awx_devel/requirements/requirements.in
 social-auth-core[openidconnect]==4.3.0
     # via
